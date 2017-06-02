@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/5/23 17:54:31。
+     1>项目“C:\Users\dmt\Desktop\银行账户管理程序\银行账户管理程序\银行账户管理程序.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\银行账户管理程序.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "主程序.cpp"
+         主程序.cpp
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(147,5): error MSB6006: “CL.exe”已退出，代码为 2。
+     1>c:\users\dmt\desktop\银行账户管理程序\银行账户管理程序\主程序.cpp(22): error C3861: “show”: 找不到标识符
+     1>c:\users\dmt\desktop\银行账户管理程序\银行账户管理程序\主程序.cpp(22): warning C4060: switch 语句没有包含“case”或“default”标签
+     1>已完成生成项目“C:\Users\dmt\Desktop\银行账户管理程序\银行账户管理程序\银行账户管理程序.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.25
