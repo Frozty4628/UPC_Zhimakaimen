@@ -1,1 +1,1 @@
-# UPC_Zhimakaimen
+# http://program.upc.edu.cn
